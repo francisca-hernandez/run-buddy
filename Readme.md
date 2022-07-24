@@ -1,17 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Privacy Policy - Run Buddy</title>
-  </head>
-  <a> elements in privacy-policy.html -->
-<a href="./index.html#what-we-do">What We Do</a>
+# Run Buddy
 
-  <body>
+##Purpose
+A websie that offer s fitness training services.
 
-  <section class="hero">
+##Built with 
+*HTML
+*CSS
 
-</section>
+##Website 
+https://lernantino.github.io/run-buddy/
 
-  </body>
-</html>
+##Contribution
+Made with ❤️ by Francisca
